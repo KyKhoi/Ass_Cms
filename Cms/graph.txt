@@ -1,0 +1,3 @@
+Line graph,What pulse rate was recorded at 2 minutes?
+Bar graph,What was the average height in cm for Granny's Bloomers?
+Circle graph,What percentage of people in Shrub Oak preferred butter pecan ice cream?
